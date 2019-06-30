@@ -1,0 +1,21 @@
+// Default table
+table {
+    display: block;
+    width: 100%;
+  }
+
+table, th, td {
+    border-bottom: 1px solid #9b9898;
+    border-collapse: collapse;
+  }
+
+  th, td {
+      background-color: #fff;
+      padding: 10px;
+  }
+  th {
+    position: sticky;
+    top: 0;
+  }
+
+ 
