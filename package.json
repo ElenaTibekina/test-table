@@ -47,7 +47,7 @@
     "webpack-merge": "^4.2.1"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "gh-pages": "^2.0.1",
     "vue": "^2.6.10",
     "vue-websocket": "^0.2.3",
